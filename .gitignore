@@ -1,0 +1,11 @@
+# Compiled C binaries
+MaximumSumSubarray
+MaximumSumSubarray.exe
+*.o
+*.out
+
+# IDE or Editor configurations
+.vscode/
+.idea/
+*.swp
+*~
